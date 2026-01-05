@@ -3,5 +3,9 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
-    ]
+    ],
+    "sonarlint.connectedMode.project": {
+        "connectionId": "nomanchanna",
+        "projectKey": "nomanchanna_java"
+    }
 }
